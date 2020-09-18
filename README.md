@@ -3,5 +3,8 @@ A simple URL shortener that takes in a given URL and shortens it, returning a gl
 
 # Technologies:
 React
-Mongoose/MongoDB
 NodeJS
+
+# Libraries:
+shortid
+react-hook-form
