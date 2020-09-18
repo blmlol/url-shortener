@@ -1,13 +1,13 @@
 {
-    "name": "node_react_startup_structure_server",
+    "name": "url-shortener",
     "version": "1.0.0",
-    "description": "The server for the Node React Startup Structure",
+    "description": "Server for url-shortener",
     "main": "app.js",
     "scripts": {
         "start": "node app.js",
         "dev": "nodemon app.js"
     },
-    "author": "Anthony Rivas",
+    "author": "David Wong",
     "license": "MIT",
     "devDependencies": {
         "nodemon": "^1.19.4"
